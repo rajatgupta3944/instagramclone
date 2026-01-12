@@ -15,7 +15,7 @@ const Signup = () => {
   return (
     <>
         <Input
-          placeholder='Email'
+          placeholder='Email...'
           fontSize={14}
           type="email"
           size={"sm"}
